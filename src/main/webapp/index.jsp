@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+x<!DOCTYPE html>
 <html>
 <head>
     <title>Online Book Store</title>
@@ -42,7 +42,7 @@
 <div class="book">
     <h3>Python Basics</h3>
     <p>Price: ₹400</p>
-    <button onclick="buyBook('Python Basics')">Buy Now</button>
+    <button onclick="buyBook('Python Basics')">Buy not  Now</button>
 </div>
 
 <div class="book">
